@@ -1,1 +1,1 @@
-# Javascript-Assignment-qes4
+# Javascript-Assignment-qes4,5,6
